@@ -8,7 +8,7 @@
 | :--- | :--- |
 |  |  |
 
- Nvidia GeForce GTX 1060 3GB \( 3 GB / 华硕 \)
+Nvidia GeForce GTX 1060 3GB \( 3 GB / 华硕 \)
 
 内存                16 GB \( 英睿达 DDR4 2400MHz \)
 
