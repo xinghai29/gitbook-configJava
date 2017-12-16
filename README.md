@@ -1,2 +1,4 @@
-# gitbook-configJava
-configJava in win10
+# 前言
+
+由于新入手了一台电脑，所谓百废待兴，故此文应运而生。本文主要记录win10系统下安装一些常用的软件，
+
