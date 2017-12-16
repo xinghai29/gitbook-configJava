@@ -1,14 +1,14 @@
+处理器 英特尔 Core i7-7700 @ 3.60GHz 四核
 
+主板    ： 技嘉 B250-D3A-CF \( 英特尔 Xeon E3 - 1200 v6/7th Gen Intel Core/DRAM Registers - 591F - 200 Series 芯片组 Family - A2C8 \)
 
+显卡：
 
+|  | 英特尔 Core i7-7700 @ 3.60GHz 四核 |
+| :--- | :--- |
+|  |  |
 
-
-
-处理器              英特尔 Core i7-7700 @ 3.60GHz 四核
-
-主板                技嘉 B250-D3A-CF \( 英特尔 Xeon E3 - 1200 v6/7th Gen Intel Core/DRAM Registers - 591F - 200 Series 芯片组 Family - A2C8 \)
-
-显卡                Nvidia GeForce GTX 1060 3GB \( 3 GB / 华硕 \)
+ Nvidia GeForce GTX 1060 3GB \( 3 GB / 华硕 \)
 
 内存                16 GB \( 英睿达 DDR4 2400MHz \)
 
