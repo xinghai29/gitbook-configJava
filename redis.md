@@ -8,9 +8,11 @@
 
 * 在桌面新建一个start\_redis.bat的文本文档，内容输入
 
-         cd C:\Program Files\redis
+  ```
+     cd C:\Program Files\redis
 
-         redis-server  redis.windows.conf ` `
+     redis-server  redis.windows.conf
+  ```
 
 
 
