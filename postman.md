@@ -12,5 +12,5 @@
 
 2、添加新的环境参数
 
-
+![](/assets/environment.png)
 
