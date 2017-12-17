@@ -2,7 +2,7 @@
 
 * lantern [https://github.com/getlantern/forum/issues/833](https://github.com/getlantern/forum/issues/833)
 
-        直接下载使用即可
+直接下载使用即可
 
 * 
 
