@@ -4,7 +4,7 @@ java se downloads: [http://www.oracle.com/technetwork/java/javase/downloads/inde
 
 选择接受后下载对应平台的安装包，安装完成后，在命令行中输入cmd，进入命令行界面，输入`java -version`
 
-查看java是否安装成功![](/assets/java_version.png)
+查看java是否安装成功
 
 ![](/assets/java_version.png)
 
