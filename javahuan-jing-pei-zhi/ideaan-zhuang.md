@@ -1,4 +1,4 @@
-* 下载安装
+* 下载安装： https://www.jetbrains.com/idea/
 * 
 
 
