@@ -11,7 +11,5 @@ GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE
 
 * win10中HTML无法渲染 [http://blog.csdn.net/wyc12306/article/details/51504906](http://blog.csdn.net/wyc12306/article/details/51504906)
 
-下载其中的 [**Awesomium 1.6.6 SDK**](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe)，点击安装完重启markdownpad2即可秀姑
-
-
+下载其中的 [**Awesomium 1.6.6 SDK**](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe)，点击安装完重启markdownpad2即可修复
 
