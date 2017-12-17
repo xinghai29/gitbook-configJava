@@ -13,5 +13,11 @@
    redis-server  redis.windows.conf
 ```
 
+* [Redis Desktop Manager](https://redisdesktop.com/)
 
+  * 下载地址 ：https://redisdesktop.com/download
+  * 下载完成后安装，打开软件选择connect to redis server
+  * ![](/assets/redis_connect.png) ![](/assets/redis_ssh.png)
+
+这样设置即可连接上redis数据库
 
