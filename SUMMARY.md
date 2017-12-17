@@ -9,5 +9,5 @@
   * [markdownPad](markdownpad.md)
 * [Java环境配置](javahuan-jing-pei-zhi.md)
   * [jdk安装](javahuan-jing-pei-zhi/jdkan-zhuang.md)
-  * IDEA安装
+  * [IDEA安装](javahuan-jing-pei-zhi/ideaan-zhuang.md)
 
