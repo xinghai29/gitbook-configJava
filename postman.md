@@ -8,7 +8,7 @@
 
 1、打开Manage Environments
 
-![](/assets/import.png)
+![环境选择](/assets/import.png)
 
 2、添加新的环境参数
 
