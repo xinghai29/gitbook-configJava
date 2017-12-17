@@ -6,7 +6,7 @@
 
 当你经常性需要测试本地和服务器的接口，但是host和token信息不一致时，是否需要每次更改host头和token信息呢？现在有个简单方法随机切换你的host头或者其他信息。
 
+1、打开Manage Environments
 
-
-
+![](/assets/import.png)
 
