@@ -14,3 +14,7 @@
 
 ![](/assets/environment.png)
 
+3、调用参数
+
+![](/assets/调用参数.png)
+
