@@ -1,7 +1,7 @@
 * 下载地址： [http://markdownpad.com/](http://markdownpad.com/)
 * 注册码： [http://www.jianshu.com/p/9e5cd946696d](http://www.jianshu.com/p/9e5cd946696d)
 
-邮箱：Soar360@live.com
+邮箱：`Soar360@live.com`
 
 授权秘钥：
 
